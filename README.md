@@ -295,7 +295,7 @@ Amazon's revenue strategy.
 
 
 *"The goal of data analysis is not to describe what 
-happened — it is to change what happens next."*
+happened, it is to change what happens next."*
 
 ---
 
